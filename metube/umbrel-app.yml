@@ -2,22 +2,23 @@ manifestVersion: 1
 id: sparkles-hello-world
 name: MeTube
 tagline: Replace this tagline with your app's tagline
-icon: https://th.bing.com/th/id/R.dc80b6d441b9d9f6efc9d54177ac0b06?rik=2T62CCjp93ul9w&pid=ImgRaw&r=0&PC=EMMX01
+icon: https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/metube.png
 category: Downloads
 version: "1.0.0"
 port: 8081
 description: >-
-  Add your app's description here.
+ Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites (https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
 
-  You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
+  
+
+developer: alexta69
+website: https://hub.docker.com/r/alexta69/metube
 submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/alexta69/metube
+repo: https://github.com/alexta69/metube
+support: https://github.com/alexta69/metube/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
