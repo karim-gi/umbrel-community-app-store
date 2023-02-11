@@ -4,7 +4,7 @@ services:
   app_proxy:
     environment:
       APP_HOST: metube_server_1
-      APP_PORT: 8081
+      APP_PORT: 9060
 
   server:
     image: alexta69/metube:latest
@@ -15,5 +15,5 @@ services:
     volumes:
       - ${UMBREL_ROOT}/data/storage/downloads:/downloads
     ports:
-       - 8081:8081
+       - 9060:8081
     restart: on-failure
