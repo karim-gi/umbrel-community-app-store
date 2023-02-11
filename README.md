@@ -34,7 +34,7 @@ sudo ~/umbrel/scripts/app install sparkles-hello-world
 
 sudo ~/umbrel/scripts/app install sparkles-hello-world-1
 
-sudo ~/umbrel/scripts/app install file-browser
+sudo ~/umbrel/scripts/app install metube
 ```
 
 To remove an app store:
