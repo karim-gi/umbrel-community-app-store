@@ -31,6 +31,8 @@ sudo ~/umbrel/scripts/repo update
 To install an app from the app store
 ```
 sudo ~/umbrel/scripts/app install metube
+
+sudo ~/umbrel/scripts/app install youtubedl-material
 ```
 
 To remove an app store:
